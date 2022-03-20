@@ -21,7 +21,18 @@ Solution to <a href="https://www.codechef.com/practice?page=0&limit=20&sort_by=d
     <td><a href="https://www.codechef.com/viewsolution/60103308">Solution</a></td>   
     <td><a href="https://www.codechef.com/viewsolution/60104518">Solution</a></td>   
   </tr>
-  
+ <tr>
+    <td><a href="https://www.codechef.com/problems/NUM239">NUM 239 </a></td>
+    <td><a href="https://www.codechef.com/viewsolution/60109252">Solution</a></td>   
+    <td><a href="https://www.codechef.com/viewsolution/60108820">Solution</a></td>   
+    <td><a href="">Solution</a></td>   
+  </tr>
+  <tr>
+    <td><a href="https://www.codechef.com/problems/SUBTASK">SUBTASK</a></td>
+    <td><a href="">Solution</a></td>   
+    <td><a href="https://www.codechef.com/viewsolution/60137280">Solution</a></td>   
+    <td><a href="">Solution</a></td>   
+  </tr>
 </table>  
 <body> 
 <html> 
