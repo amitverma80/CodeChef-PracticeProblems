@@ -25,13 +25,25 @@ Solution to <a href="https://www.codechef.com/practice?page=0&limit=20&sort_by=d
     <td><a href="https://www.codechef.com/problems/NUM239">NUM 239 </a></td>
     <td><a href="https://www.codechef.com/viewsolution/60109252">Solution</a></td>   
     <td><a href="https://www.codechef.com/viewsolution/60108820">Solution</a></td>   
-    <td>>NA></td>
+    <td>NA></td>
   </tr>
   <tr>
     <td><a href="https://www.codechef.com/problems/SUBTASK">SUBTASK</a></td>
-    <td>>NA></td>   
+    <td>NA></td>   
     <td><a href="https://www.codechef.com/viewsolution/60137280">Solution</a></td>   
-   <td>>NA></td>  
+   <td>NA></td>  
+  </tr>
+  <tr>
+    <td><a href="https://www.codechef.com/problems/JOHNY">JOHNY</a></td>
+    <td><a href="https://www.codechef.com/viewsolution/60735369">Solution</a></td>   
+    <td><a href="https://www.codechef.com/viewsolution/60734962">Solution</a></td>   
+    <td><a href="https://www.codechef.com/viewsolution/60736207">Solution</a></td>   
+  </tr>
+ <tr>
+    <td><a href="https://www.codechef.com/problems/HORSES">HORSES</a></td>
+    <td><a href="https://www.codechef.com/viewsolution/60900896">Solution</a></td>   
+    <td><a href="https://www.codechef.com/viewsolution/60900448">Solution</a></td>   
+    <td><a href="https://www.codechef.com/viewsolution/60901508">Solution</a></td>   
   </tr>
 </table>  
 <body> 
