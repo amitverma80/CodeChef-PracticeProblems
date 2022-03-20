@@ -1,4 +1,4 @@
-# HackerRank-Problem-Solving
+# Code Chef-Practice Problems
 
 <html>
  <head>
